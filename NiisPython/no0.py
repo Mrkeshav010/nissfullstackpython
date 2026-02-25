@@ -1,0 +1,5 @@
+"""Check no is Zero"""
+print("enter a number")
+no=int(input())
+if no==0:
+	print("no is zero")
